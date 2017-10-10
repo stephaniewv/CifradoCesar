@@ -1,4 +1,4 @@
-https://ibb.co/kEqXFb
+![Diagrama de Flujo de Stephanie Wong](https://ibb.co/kEqXFb)
 
 PSEUCODIGO:
 
